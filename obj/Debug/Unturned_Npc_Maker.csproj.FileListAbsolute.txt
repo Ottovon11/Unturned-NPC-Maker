@@ -1,0 +1,13 @@
+C:\Users\Owner\source\repos\Unturned_Npc_Maker\Unturned_Npc_Maker\bin\Debug\Unturned_Npc_Maker.exe.config
+C:\Users\Owner\source\repos\Unturned_Npc_Maker\Unturned_Npc_Maker\bin\Debug\Unturned_Npc_Maker.exe
+C:\Users\Owner\source\repos\Unturned_Npc_Maker\Unturned_Npc_Maker\bin\Debug\Unturned_Npc_Maker.pdb
+C:\Users\Owner\source\repos\Unturned_Npc_Maker\Unturned_Npc_Maker\obj\Debug\Unturned_Npc_Maker.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\Unturned_Npc_Maker\Unturned_Npc_Maker\obj\Debug\Unturned_Npc_Maker.Form1.resources
+C:\Users\Owner\source\repos\Unturned_Npc_Maker\Unturned_Npc_Maker\obj\Debug\Unturned_Npc_Maker.Properties.Resources.resources
+C:\Users\Owner\source\repos\Unturned_Npc_Maker\Unturned_Npc_Maker\obj\Debug\Unturned_Npc_Maker.csproj.GenerateResource.cache
+C:\Users\Owner\source\repos\Unturned_Npc_Maker\Unturned_Npc_Maker\obj\Debug\Unturned_Npc_Maker.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\Unturned_Npc_Maker\Unturned_Npc_Maker\obj\Debug\Unturned_Npc_Maker.exe
+C:\Users\Owner\source\repos\Unturned_Npc_Maker\Unturned_Npc_Maker\obj\Debug\Unturned_Npc_Maker.pdb
+C:\Users\Owner\source\repos\Unturned_Npc_Maker\Unturned_Npc_Maker\bin\Debug\MetroFramework.Design.dll
+C:\Users\Owner\source\repos\Unturned_Npc_Maker\Unturned_Npc_Maker\bin\Debug\MetroFramework.dll
+C:\Users\Owner\source\repos\Unturned_Npc_Maker\Unturned_Npc_Maker\obj\Debug\Unturned_Npc_Maker.csproj.CopyComplete
